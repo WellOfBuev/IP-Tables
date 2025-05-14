@@ -1,3 +1,5 @@
+# IPTABLES
+
 This code analyzes a web server (nginx) access log and automatically blocks or unblocks IP addresses based on their activity. Here's what it does:
 - Processes the log file, extracting request details.
 - Tracks IP addresses and counts the number of requests from each.
